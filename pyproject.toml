@@ -1,0 +1,10 @@
+[project]
+name = "p4-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kagglehub[pandas-datasets]>=0.3.13",
+    "pandas>=2.3.3",
+]
